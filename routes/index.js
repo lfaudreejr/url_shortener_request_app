@@ -12,7 +12,7 @@ var MongoClient = mongodb.MongoClient;
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Url-Shortener' });
 });
 
 router.get('/new/:url(*)', function (req, res, next) {
