@@ -13,15 +13,15 @@ When I visit that shortened URL, it will redirect me to my original link.
 Example creation usage:
 https://url-shortener-true.herokuapp.com/new/www.google.com
 
-https://url-shortener-true.herokuapp.comryKoFuwZW
+https://url-shortener-true.herokuapp.com/ryKoFuwZW
 
 
 Example creation output:
-{ original_url: "http://www.google.com", short_url: "url-shortener-true.herokuapp.comryKoFuwZW" }
+{ original_url: "http://www.google.com", short_url: "url-shortener-true.herokuapp.com/ryKoFuwZW" }
 
 
 Usage:
-https://url-shortener-true.herokuapp.comryKoFuwZW
+https://url-shortener-true.herokuapp.com/ryKoFuwZW
 
 
 Will redirect to:
